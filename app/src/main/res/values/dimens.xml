@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="card_margin">0dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="bar_text_size">12sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
